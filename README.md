@@ -99,7 +99,7 @@ Focuses on local improvement strategies for optimization.
 May require additional mechanisms to escape local optima.
 
 
-## Oracle Finding (Oracle.py)
+## Oracle Finding 
 This simple oracle-finding algorithm aims to discover the best solution within a decision problem's search space. It systematically explores the search space to identify the optimal oracle.
 
 ### Key Features:
@@ -107,7 +107,7 @@ This simple oracle-finding algorithm aims to discover the best solution within a
 Explores decision problem spaces to identify optimal solutions efficiently.
 
 
-## Alpha-Beta Pruning (a-bPrune.py)
+## Alpha-Beta Pruning 
 The Alpha-Beta Pruning algorithm is an optimization technique for the Minimax algorithm used in game theory. It reduces the number of nodes evaluated in the game tree, improving efficiency.
 
 ### Key Features:
